@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GroundTile.jpg</Source>
+      <Name>GroundTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\GroundTile.xnb</Output>
+      <Time>2013-11-22T17:11:12.0510811-05:00</Time>
+    </Item>
+    <Item>
+      <Source>greyBoxCharacter.png</Source>
+      <Name>greyBoxCharacter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\greyBoxCharacter.xnb</Output>
+      <Time>2013-11-22T17:11:11.9780769-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyTile.jpg</Source>
+      <Name>SkyTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\SkyTile.xnb</Output>
+      <Time>2013-11-22T17:11:12.1240853-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundPic.jpg</Source>
+      <Name>BackgroundPic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\BackgroundPic.xnb</Output>
+      <Time>2013-11-22T17:11:12.0390804-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tempsprites.png</Source>
+      <Name>tempsprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\tempsprites.xnb</Output>
+      <Time>2013-11-22T17:11:12.101084-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Start Screen.jpg</Source>
+      <Name>Start Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Start Screen.xnb</Output>
+      <Time>2013-11-22T17:11:11.944075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Pause Screen.jpg</Source>
+      <Name>Pause Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Pause Screen.xnb</Output>
+      <Time>2013-11-22T17:11:12.0630818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Instruction Screen.jpg</Source>
+      <Name>Instruction Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Instruction Screen.xnb</Output>
+      <Time>2013-11-22T17:11:12.0760826-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Death Screen.jpg</Source>
+      <Name>Death Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Death Screen.xnb</Output>
+      <Time>2013-11-22T17:11:12.1390862-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victory Screen.jpg</Source>
+      <Name>Victory Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Victory Screen.xnb</Output>
+      <Time>2013-11-22T17:11:11.9670763-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spriteSheet.png</Source>
+      <Name>spriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\spriteSheet.xnb</Output>
+      <Time>2013-11-22T17:11:11.9910777-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dirt.png</Source>
+      <Name>dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\dirt.xnb</Output>
+      <Time>2013-11-22T17:11:12.0270797-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2013-11-22T17:11:12.0880832-05:00</Time>
+    </Item>
+    <Item>
+      <Source>magic.png</Source>
+      <Name>magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\magic.xnb</Output>
+      <Time>2013-11-22T17:11:12.1130847-05:00</Time>
+    </Item>
+    <Item>
+      <Source>magicLeft.png</Source>
+      <Name>magicLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\magicLeft.xnb</Output>
+      <Time>2013-11-22T17:11:11.9550756-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemySheet.png</Source>
+      <Name>enemySheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\enemySheet.xnb</Output>
+      <Time>2013-11-22T17:09:48.3542939-05:00</Time>
+    </Item>
+    <Item>
+      <Source>background2.png</Source>
+      <Name>background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\background2.xnb</Output>
+      <Time>2013-11-22T16:26:09.8295229-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodCleanContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodCleanContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Julianne\Desktop\thenewsest\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-05T08:52:42.9031657-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

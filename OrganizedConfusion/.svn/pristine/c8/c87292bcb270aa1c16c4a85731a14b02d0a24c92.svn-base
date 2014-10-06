@@ -1,0 +1,77 @@
+Comment and General Code (%) Review - Liam Middlebrook
+	+ Animation.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples: 
+				# What does sprite_Y do? Is it the Y equivalent of sprite_Xoffset
+	+ Boss.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				# What does attack do? What is it used for in the class?
+				# Why does the boss constructor take bsAttk and plyr? Is a new boss generated for every attack?
+	+ BossAttack.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				# What is objectTexture? What is it used for?
+				# Why is there an if statement at line 73 setting the attack to false?
+	+ Character.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				# What is the Character class, why does it exist?
+				# Why does the constructor take a Game object?
+				% Why in LoadContent is the Boss spriteSheet not loaded? Why is that loaded in Boss.cs? Is there a reason why this is, if so comment that reason?
+				% Why is the spriteBatch still beginning if shouldDraw is false? Is there a reason why this is, if so comment that reason?
+	+ Enemy.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				# What is the Enemy class, why does it exist?
+				# What is objectRectangle? What is it used for?
+		- Comment at line 86 is untrue; please fix.
+	+ GameObject.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				% Why is MoveCharacter in GameObject? Is there a reason why this is, if so comment that reason?
+		% Why is handleCollision a virtual method if it has no contents? Why not make it abstract?
+	+ GameWorldTile.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				% The parameters for the constructor are fuzzy? Does each tile have a separate texture? Why not use a spriteSheet tileMap?
+	+ Magic.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				# What is the Magic class?
+				# What are shotL and shotR?
+				# Why does the magic need a Player?
+	+ Physics.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				# Why is this class needed?
+				% Why not make Gravity a static method?
+		- The comment at line 18 is untrue; please fix.
+	+ Player.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				# What is isPaused? Why is this in the Player class?
+	+ UserInput.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				# What is this class used for?
+				# Why does update call checkInput? Why not just put the contents of checkInput inside of Update?
+		- The comment at line 18 is untrue; please fix.
+		% The parameter names for Update and checkInput are inconsistent; please fix.
+	+ World.cs
+		- Not all members (Attributes, Properties, Constructors, and Methods) make sense by name.
+			* Potential Fix: Use XML (Intellisense) comments to label what different members do
+			* Examples:
+				# What does each parameter in the constructor do?
+				# What does LoadWorldIn do? What does it take a Game object as a parameter?

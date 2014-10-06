@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GroundTile.jpg</Source>
+      <Name>GroundTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\GroundTile.xnb</Output>
+      <Time>2013-12-18T17:16:44.869524-05:00</Time>
+    </Item>
+    <Item>
+      <Source>greyBoxCharacter.png</Source>
+      <Name>greyBoxCharacter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\greyBoxCharacter.xnb</Output>
+      <Time>2013-12-18T17:16:44.028906-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyTile.jpg</Source>
+      <Name>SkyTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\SkyTile.xnb</Output>
+      <Time>2013-12-18T17:16:45.302484-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundPic.jpg</Source>
+      <Name>BackgroundPic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\BackgroundPic.xnb</Output>
+      <Time>2013-12-18T17:16:44.779029-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tempsprites.png</Source>
+      <Name>tempsprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\tempsprites.xnb</Output>
+      <Time>2013-12-18T17:16:45.143218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Start Screen.jpg</Source>
+      <Name>Start Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Start Screen.xnb</Output>
+      <Time>2013-12-18T17:17:21.230442-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Pause Screen.jpg</Source>
+      <Name>Pause Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Pause Screen.xnb</Output>
+      <Time>2013-12-18T17:16:44.968995-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Instruction Screen.jpg</Source>
+      <Name>Instruction Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Instruction Screen.xnb</Output>
+      <Time>2013-12-18T17:16:45.062807-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Death Screen.jpg</Source>
+      <Name>Death Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Death Screen.xnb</Output>
+      <Time>2013-12-18T17:16:50.02236-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victory Screen.jpg</Source>
+      <Name>Victory Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Victory Screen.xnb</Output>
+      <Time>2013-12-18T17:17:21.344176-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spriteSheet.png</Source>
+      <Name>spriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\spriteSheet.xnb</Output>
+      <Time>2013-12-18T17:16:44.246872-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dirt.png</Source>
+      <Name>dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\dirt.xnb</Output>
+      <Time>2013-12-18T17:16:44.618007-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2013-12-18T17:16:45.222621-05:00</Time>
+    </Item>
+    <Item>
+      <Source>magic.png</Source>
+      <Name>magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\magic.xnb</Output>
+      <Time>2013-12-18T17:16:49.910502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>magicLeft.png</Source>
+      <Name>magicLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\magicLeft.xnb</Output>
+      <Time>2013-12-18T17:17:21.454365-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemySheet.png</Source>
+      <Name>enemySheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\enemySheet.xnb</Output>
+      <Time>2013-12-18T17:16:44.695648-05:00</Time>
+    </Item>
+    <Item>
+      <Source>background2.png</Source>
+      <Name>background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\background2.xnb</Output>
+      <Time>2013-12-18T17:16:44.531521-05:00</Time>
+    </Item>
+    <Item>
+      <Source>princess.png</Source>
+      <Name>princess</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\princess.xnb</Output>
+      <Time>2013-12-18T17:16:51.45993-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Exposition Screen.jpg</Source>
+      <Name>Exposition Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Exposition Screen.xnb</Output>
+      <Time>2013-12-18T17:16:44.129157-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Flower Attack.png</Source>
+      <Name>Flower Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\Flower Attack.xnb</Output>
+      <Time>2013-12-18T17:16:51.364095-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGameMusic.wav</Source>
+      <Name>mainGameMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\mainGameMusic.xnb</Output>
+      <Time>2013-12-18T17:17:21.082651-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bossMusic.wav</Source>
+      <Name>bossMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\bossMusic.xnb</Output>
+      <Time>2013-12-18T17:16:49.832112-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E388E2F2-7919-4B26-B1B1-1D96863E5EC0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodCleanContent\</RootDirectory>
+      <LoggerRootDirectory>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\</LoggerRootDirectory>
+      <IntermediateDirectory>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\banner.main.ad.rit.edu\students\jbr1037\IGMProfile\Desktop\OrganizedConfusion\EvilVsGoodClean\EvilVsGoodClean\EvilVsGoodClean\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-31T14:49:41.0611548-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
